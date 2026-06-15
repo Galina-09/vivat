@@ -98,7 +98,7 @@ const mockClients: Client[] = [
     budget_max: null,
     preferred_property_type: null,
     preferred_city: null,
-    notes: 'Purchased apartment in Lviv',
+    notes: 'Purchased apartment in Vinnitsa',
     assigned_manager_id: '1',
     last_contact: new Date(Date.now() - 30 * 24 * 60 * 60 * 1000).toISOString(),
     created_at: new Date(Date.now() - 60 * 24 * 60 * 60 * 1000).toISOString(),
