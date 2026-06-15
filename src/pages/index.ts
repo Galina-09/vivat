@@ -1,0 +1,9 @@
+export { LoginPage } from './LoginPage';
+export { DashboardPage } from './DashboardPage';
+export { PropertiesPage } from './PropertiesPage';
+export { ClientsPage } from './ClientsPage';
+export { AIAssistantPage } from './AIAssistantPage';
+export { SettingsPage } from './SettingsPage';
+export { AnalyticsPage } from './AnalyticsPage';
+export { InquiriesPage } from './InquiriesPage';
+export { MeetingsPage } from './MeetingsPage';
