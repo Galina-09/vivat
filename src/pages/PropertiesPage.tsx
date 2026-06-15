@@ -169,7 +169,7 @@ export const PropertiesPage: React.FC = () => {
 
   const propertyImages: Record<string, string> = {
     '2': 'https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=800',
-    '3': 'https://images.pexels.com/photos/3807698/pexels-photo-3807698.jpeg?auto=compress&cs=tinysrgb&w=800',
+    '3': 'https://images.pexels.com/photos/3801167/pexels-photo-3801167.jpeg',
     '4': 'https://images.pexels.com/photos/3057963/pexels-photo-3057963.jpeg?auto=compress&cs=tinysrgb&w=800',
   };
 
